@@ -1,0 +1,7 @@
+asgiref==3.5.0
+Django==4.0.2
+sqlparse==0.4.2
+pymysql==1.0.2
+mysqlclient==2.1.0
+siwe==1.0.0
+pyjwt==2.3.0
